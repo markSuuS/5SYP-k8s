@@ -1,4 +1,4 @@
-package at.htlleonding;
+package at.htlleonding.app;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
